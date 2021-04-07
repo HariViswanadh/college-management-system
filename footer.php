@@ -1,5 +1,5 @@
 <div class="footer" style="margin-top:20px;">
-			<footer><p>Copyright &copy; Hari Viswanadh </p></footer>
+			<footer><p>Copyright &copy; Bhawana </p></footer>
 </div>
 		<script src="js/jquery.js"></script>
 		 <script>

@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hari Viswanadh</title>
+		<title>Bhawana</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
@@ -27,7 +27,7 @@
 		</div>
 		
 <div class="footer">
-			<footer><p>Copyright &copy; Hari Viswanadh </p></footer>
+			<footer><p>Copyright &copy; Bhawana</p></footer>
 </div>
 		<script src="js/jquery.js"></script>
 		 <script>

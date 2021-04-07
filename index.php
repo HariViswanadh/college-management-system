@@ -6,12 +6,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Collage Base Management System - Hari Viswanadh</title>
+		<title>Collage Base Management System - Bhawana</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body class="back">
 		<?php include"navbar.php";?>
-		<img src="img/baground.jpg" width="800">
+		<img src="a.jpg" width="800">
 		
 		<div class="login">
 			<h1 class="heading">Admin Login</h1>
@@ -51,7 +51,7 @@
 			</div>
 		</div>
 		<div class="footer">
-			<footer><p>Copyright &copy; Hari Viswanadh </p></footer>
+			<footer><p>Copyright &copy; Bhawana </p></footer>
 		</div>
 		<script src="js/jquery.js"></script>
 		 <script>
